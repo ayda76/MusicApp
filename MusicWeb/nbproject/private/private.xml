@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/ControlPanel/Singer/EditSinger.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/ControlPanel/Singer/index.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Dao/do_Album.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/Utils/ConnectionString.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Dao/do_Users.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Dao/do_Singer.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Controller/co_Album.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Dao/do_Category.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/ControlPanel/Album/index.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Servlet/Singer_Servlet.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Controller/co_Singer.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/ControlPanel/Users/index.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/ControlPanel/Category/EditCategory.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Servlet/Users_Servlet.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Servlet/Like_Servlet.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Controller/co_Users.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/Play/Lyric.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/ControlPanel/index.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/ControlPanel/Users/EditUsers.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/ControlPanel/Album/EditAlbum.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Servlet/Album_Servlet.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Servlet/Lyric_Servlet.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/ControlPanel/Category/index.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/Login/index.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Servlet/Category_Servlet.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/ControlPanel/Song/insertsong.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/ControlPanel/SideBar.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/ControlPanel/Song/index.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Servlet/Song_Servlet.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/Play/index.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/index.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/welcomeStruts.jsp</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Controller/co_Song.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Controller/co_Category.java</file>
+            <file>file:/C:/Users/Aida/Documents/NetBeansProjects/MusicWeb/src/java/com/myapp/struts/Servlet/LoginServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
